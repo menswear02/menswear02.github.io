@@ -1,0 +1,124 @@
+.div1 {
+    background-color: #fff;
+    width: 170px;
+    max-height: 250px;
+    margin-left: -0.5px;
+    margin-right: -0.5px;
+    margin-top: 2.5px;
+    margin-bottom: 2px;
+    padding: 4px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .div2 {
+    width: 100%;
+    height: 170px;
+  }
+  
+  .div3 {
+    background-color: #ccc;
+  }
+  
+  .div4 {
+    background-color: #ccc;
+    border: 1.5px solid #777;
+    border-radius: 3px;
+  }
+  
+  .a1 {
+    color: red;
+  }
+  
+  .img1 {
+    height: 100%;
+    width: 100%;
+    object-fit: scale-down;
+  }
+  
+  .p1 {
+    background-color: #777;
+    color: #fff;
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+    padding: 0px 5px 0px 5px;
+  }
+  
+  .p22 {
+    margin-top: -5px;
+    display: flow-root;
+  }
+  
+  .p3 {
+    text-decoration: line-through;
+    color: #777;
+  }
+  
+  .per {
+    color: #fe5621;
+  }
+  
+  .share-btn {
+    height: 26px;
+    width: 26px;
+    border: 0px solid #000;
+    border-radius: 100%;
+    background-color: #ccc;
+    padding: 0px;
+    background-image: url("assets/icon/share-01.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .share-box {
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    display: flex;
+    margin-top: 3px;
+    margin-left: 125px;
+    z-index: 1;
+  }
+  
+  .platform-icon-ol {
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    display: flex;
+    margin-top: -28px;
+    margin-left: 3px;
+    z-index: 1;
+  }
+  
+  .platform-icon {
+    height: 26px;
+    width: 26px;
+    border: 1px solid #000;
+    border-radius: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .platform-myntra {
+    background-image: url("assets/icon/myntra-01.png");
+    background-color: deeppink;
+  }
+  
+  .platform-amazon {
+    background-image: url("assets/icon/amazon-01.png");
+    background-color: gold;
+  }
+  
+  .platform-flipkart {
+    background-image: url("assets/icon/flipkart-01.png");
+    background-color: deepskyblue;
+  }
+  
+  .platform-meesho {
+    background-image: url("assets/icon/meesho-01.png");
+    background-color: deepskyblue;
+  }

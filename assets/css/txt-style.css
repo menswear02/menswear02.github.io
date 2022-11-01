@@ -1,0 +1,47 @@
+.mw--txt-style-big-container {
+    cursor: default;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 15vh;
+    font-family: sans-serif;
+}
+
+.mw--txt-style-main-heading {
+    margin-bottom: 3vh;
+}
+
+.mw--txt-style-main-heading-txt {
+    font-family: inherit;
+    font-size: 1.8em;
+    font-weight: bold;
+}
+
+.mw--txt-style-small-container p {
+    margin-left: 2vw;
+    margin-bottom: 3.5vh;
+    font-family: inherit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+    line-height: 30px;
+    text-indent: 40px;
+}
+
+.mw--txt-style-side-heading {
+    font-size: 18px !important;
+    text-indent: 0px !important;
+    font-weight: 700 !important;
+    margin-bottom: 0.5em !important;
+}
+
+.mw--txt-style-a-tag {
+    font-weight: 600;
+}
+
+.mw--txt-style-b-tag {
+    font-weight: 600;
+}

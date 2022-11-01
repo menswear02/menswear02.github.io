@@ -1,0 +1,25 @@
+.mw--index-products-container-outline {
+    max-width: 330px;
+    height: auto;
+    width: auto;
+    background-color: #cccccc50;
+    display: inline-block;
+    margin: 5px 0px 0px 0px;
+    padding: 6px 0px 4px 0px;
+    border: solid 2.5px #ccc;
+    border-radius: 4.5px;
+}
+
+.mw--index-product {
+    background-color: #ccc;
+    height: 180px;
+    width: 150px;
+    display: inline-block;
+    line-height: 100%;
+    overflow: hidden;
+}
+
+.mw--index-product-img {
+    height: 100%;
+    width: 100%;
+}

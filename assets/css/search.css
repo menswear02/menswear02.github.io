@@ -1,0 +1,13 @@
+.mw--search-tags {
+  display: none;
+}
+.fa-search {
+  padding: 0px 20px 0px 0px;
+}
+.label {
+  margin: 2.5px;
+}
+.mw--search-input {
+  height: 42px;
+  font-size: 18px;
+}

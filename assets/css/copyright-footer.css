@@ -1,0 +1,12 @@
+.mw--footer-copyright {
+    cursor: default;
+    background-color: #ccc;
+    color: #000;
+    width: 100%;
+    height: 45px;
+    text-align: center;
+    font-size: 1em;
+    font-weight: 500;
+    padding: 12px;
+    position: absolute;
+}

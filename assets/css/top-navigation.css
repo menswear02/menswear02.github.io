@@ -1,0 +1,65 @@
+@import url("color.css");
+
+.navbar-brand {
+  transform: translateX(-50%);
+  left: 50%;
+  position: absolute;
+}
+
+.navbar-brand {
+  padding: 0px;
+}
+
+.navbar-brand>img {
+  height: 100%;
+  width: auto;
+  padding: 5px;
+  border-radius: 100%;
+}
+
+.navbar-light {
+  width: 100%;
+  position: fixed;
+}
+
+.mw--top-navbar-style {
+  color: #fff;
+  background-color: var(--top-navbar-bgcolor);
+  border-top: 0px solid #000;
+  border-left: 0px solid #000;
+  border-right: 0px solid #000;
+  border-bottom: 0.1px solid #ccc;
+  position: fixed !important;
+  top: 0px;
+  width: 100%;
+  cursor: pointer;
+  font-size: 35px;
+  z-index: 10;
+}
+
+.mw--top-navbar-search {
+  float: right;
+}
+
+.mw--top-navbar-svg-list {
+  height: 25px;
+  width: 25px;
+  fill: currentColor;
+}
+
+.mw--top-navbar-svg-search {
+  height: 20px;
+  width: 20px;
+  fill: currentColor;
+}
+
+.mw--top-navbar-svg-back {
+  height: 25px;
+  width: 25px;
+  fill: currentColor;
+  color: #fff;
+}
+
+nav {
+  z-index: 10;
+}

@@ -1,0 +1,6 @@
+@import url("theme-1.css");
+
+  :root {
+    --top-navbar-bgcolor: var(--color-01);
+
+  }

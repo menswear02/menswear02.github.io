@@ -1,0 +1,29 @@
+.mw--products-con-ol {
+    display: inline-block;
+    width: auto;
+    padding: 0px;
+    margin: 5px 0px 0px 0px;
+    border: solid 2.5px #ccc;
+    border-radius: 4.5px;
+}
+
+.mw--products-con {
+    height: 250px;
+    width: 150px;
+    margin: 10px;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+.mw--product-img {
+    height: 65%;
+    width: 100%;
+    object-fit: scale-down;
+}
+
+.btn {
+    text-transform: uppercase;
+    display: block;
+    margin-top: 10px;
+    width: 100%;
+}

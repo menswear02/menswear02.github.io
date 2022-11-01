@@ -1,0 +1,41 @@
+.mw--side-navbar {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  overflow-x: hidden;
+  transition: 0.3s;
+  padding-top: 55px;
+}
+
+.mw--side-navbar-close {
+  position: absolute;
+  top: 0;
+  right: 18px;
+  font-size: 40px;
+  color: black;
+  text-decoration: none !important;
+  cursor: pointer
+}
+
+.mw--side-navbar-svg-close {
+  height: 30px;
+  width: 30px;
+  fill: currentColor;
+}
+
+.mw--side-navbar-logo {
+  height: 35px;
+  top: 10px;
+  position: absolute;
+  margin-left: 12px;
+}
+
+.navbar-default {
+  width: 100%;
+  position: fixed;
+  top: 0px;
+}

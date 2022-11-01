@@ -1,0 +1,15 @@
+/* img loading background: linear-gradient(120deg, #ffffff00 40%, #00000010 50%, #ffffff00 60%) #00000020; */
+
+.mw--img-loading {
+    background: linear-gradient(120deg, #ffffff00 40%, #ffffff20 50%, #ffffff00 60%) #cccccc;          
+    background-size: 200% 100%;
+    background-position-x: 180%;
+    animation: 1.2s mw--loading-shine ease-in-out infinite;
+    line-height: 100%;
+}
+
+@keyframes mw--loading-shine {
+    to {
+        background-position-x: -25%;
+    }
+}

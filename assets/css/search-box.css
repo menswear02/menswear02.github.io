@@ -1,0 +1,29 @@
+.mw--search-box-open {
+  display: none;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  right: 0px;
+  border: 1px solid #777;
+  z-index: 11;
+  background-color: #ffffff;
+}
+
+.mw--search-box-close {
+  position: fixed;
+  top: -0.5px;
+  right: 12px;
+  font-size: 45px;
+}
+
+.mw--search-box-svg-close {
+  height: 25px;
+  width: 25px;
+  fill: currentColor;
+}
+.mw--search-box-iframe {
+  height: 100%;
+  width: 100%;
+  border:0px #fff none;
+ }

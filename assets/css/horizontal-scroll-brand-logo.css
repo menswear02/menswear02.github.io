@@ -1,0 +1,22 @@
+.mw--horizontal-scroll-brand-logo-list {
+    list-style: none;
+    margin: 0px;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+.mw--horizontal-scroll-brand-logo {
+    background-color: #ccc;
+    display: inline-block;
+    position: relative;
+    height: 80px;
+    width: 80px;
+    line-height: 0px;
+    border-radius: 50%;
+}
+
+.mw--horizontal-scroll-img {
+    height: 100%;
+    width: 100%;
+}
+
