@@ -1,0 +1,23 @@
+{
+    "short_name": "Men's Wear",
+    "name": "Men's Wear",
+    "description": "A to Z Online Shopping Network...",
+    "theme_color": "#000000",
+    "background_color": "#FFFFFF",
+    "display": "standalone",
+    "icons": [
+        {  
+     "src": "assets/img/logo/png/1/100×100.png",
+     "sizes": "100x100",
+     "type": "image/png",
+     "density": "0.75"
+    },
+      {
+        "src": "assets/img/logo/png/1/200×200.png",
+        "sizes": "200x200",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/index.html"
+  }
+  
