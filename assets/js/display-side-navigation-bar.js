@@ -15,7 +15,7 @@ document.write(`
     </a>
     <div class="list-group">
         <a href="/sales" class="list-group-item">Sales</a>
-        <a href="pages/about.html" class="list-group-item">About</a>
+        <a href="pages/coming_soon.html" class="list-group-item">About</a>
         <a href="pages/contact_us.html" class="list-group-item">Contact us</a>
         <a href="pages/coming_soon.html" class="list-group-item">Telegram</a>
         <a href="https://menswearofficial.blogspot.com" class="list-group-item">Blog</a>
